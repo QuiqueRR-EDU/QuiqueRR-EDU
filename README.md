@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning code basics, I'm studying software developement degree and i hope some day work as a programer, making software, videogames, etc. So there am I starting at github.
 <!--
 **QuiqueRR-EDU/QuiqueRR-EDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
